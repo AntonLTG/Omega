@@ -1,0 +1,42 @@
+/*
+https://www.subpng.com/png-u4t9lg/ omega logga
+*/
+
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    margin: 0%;
+    background-color: #404040;
+}
+
+nav
+{
+    width: 100%;
+    margin: auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+
+nav div
+{
+    color: #FFD700;
+}
+
+h1
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+main
+{
+    height: 50rem;
+    background-image: url("telefon1.jpg");
+    background-size: cover;
+
+}
