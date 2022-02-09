@@ -43,3 +43,21 @@ footer
 {
     height: 5rem;
 }
+
+main
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.inforuta
+{
+    font-family: 'Montserrat', sans-serif;
+    background: lightgray;
+    margin-top: 5%;
+    padding: 1rem;
+    width: 700;
+    height: 700;
+    justify-content: center;
+}

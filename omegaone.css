@@ -43,3 +43,9 @@ footer
 {
     height: 5rem;
 }
+
+.bildruta
+{
+    max-height: 600px;
+    max-width: 600px;
+}
