@@ -68,5 +68,8 @@ main
 
 footer
 {
+    border-top: lightgray;
+    border-top-style: solid;
     height: 5rem;
+
 }
