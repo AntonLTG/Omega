@@ -54,10 +54,11 @@ main
 .inforuta
 {
     font-family: 'Montserrat', sans-serif;
-    background: lightgray;
+    background: rgba(255, 255, 255, 0.212);
     margin-top: 5%;
     padding: 1rem;
     width: 700;
     height: 700;
     justify-content: center;
+    border-radius: 10px;
 }

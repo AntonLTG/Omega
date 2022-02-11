@@ -44,8 +44,34 @@ footer
     height: 5rem;
 }
 
-.bildruta
+.bildruta img
 {
-    max-height: 600px;
-    max-width: 600px;
+    height: 600px;
+    width: 600px;
+}
+main
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.specruta
+{
+    margin-top: 15px;
+    background-color: rgba(255, 255, 255, 0.212);
+    height: 570px;
+    width: 600px;
+    border-radius: 10px;
+    padding: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+li
+{
+    margin-bottom: 10px;
 }
